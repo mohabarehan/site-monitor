@@ -1,0 +1,5 @@
+data.db
+session.json
+monitor.log
+__pycache__/
+.env
